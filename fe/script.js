@@ -68,25 +68,25 @@ function obtenerNombreColor(indice) {
 }
 
 function pregunta2(){
-    $('.pregunta').html("¿Cuándo crees que es apropiado perdonar a alguien?");
-    $('#azul').html("Cuando la otra persona se disculpa");
-    $('#rojo').html("Cuando siento que estoy listo para hacerlo");
-    $('#amarillo').html("Cuando la otra persona ha aprendido de sus errores");
-    $('#verde').html("Siempre, porque todos merecen una segunda oportunidad");
+    $('.pregunta').html("¿Cómo demuestras tu fe en tu vida diaria?");
+    $('#azul').html("A través de la oración o la meditación");
+    $('#rojo').html("Tratando a los demás con bondad y respeto");
+    $('#amarillo').html("Siguiendo los principios de mi religión");
+    $('#verde').html("Manteniendo una actitud positiva");
 }
 
 function pregunta3(){
-    $('.pregunta').html("¿Cómo te sientes después de perdonar a alguien?");
-    $('#azul').html("Aliviado");
-    $('#rojo').html("Feliz de poder avanzar");
-    $('#amarillo').html("Todavía un poco herido, pero esperanzado");
-    $('#verde').html("Indiferente, el perdón es para mí, no para ellos");
+    $('.pregunta').html("¿Cómo te ayuda la fe en los momentos difíciles?");
+    $('#azul').html("Me da esperanza y fuerza para seguir adelante");
+    $('#rojo').html("Me recuerda que no estoy solo");
+    $('#amarillo').html("Me ayuda a encontrar significado y propósito");
+    $('#verde').html("Me proporciona consuelo y paz");
 }
 
 function pregunta4(){
-    $('.pregunta').html("¿Crees que hay algo que no puedas perdonar?");
-    $('#azul').html("No, creo que todo puede ser perdonado con el tiempo");
-    $('#rojo').html("Sí, algunas acciones son imperdonables");
-    $('#amarillo').html("Depende de la situación y de cómo me afectó");
-    $('#verde').html("No estoy seguro, nunca he estado en esa situación");
+    $('.pregunta').html("¿Crees que la fe puede cambiar con el tiempo?");
+    $('#azul').html("Sí, creo que la fe puede evolucionar a medida que crecemos y cambiamos");
+    $('#rojo').html("No, creo que la fe es constante y no cambia");
+    $('#amarillo').html("Depende de la persona y de sus experiencias de vida");
+    $('#verde').html("No estoy seguro, todavía estoy explorando lo que significa la fe para mí");
 }

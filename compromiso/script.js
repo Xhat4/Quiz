@@ -68,25 +68,25 @@ function obtenerNombreColor(indice) {
 }
 
 function pregunta2(){
-    $('.pregunta').html("¿Cuándo crees que es apropiado perdonar a alguien?");
-    $('#azul').html("Cuando la otra persona se disculpa");
-    $('#rojo').html("Cuando siento que estoy listo para hacerlo");
-    $('#amarillo').html("Cuando la otra persona ha aprendido de sus errores");
-    $('#verde').html("Siempre, porque todos merecen una segunda oportunidad");
+    $('.pregunta').html("¿Cómo demuestras tu compromiso con algo o alguien?");
+    $('#azul').html("Siendo constante y confiable");
+    $('#rojo').html("Dando lo mejor de mí en todo momento");
+    $('#amarillo').html("Siendo honesto y transparente sobre mis intenciones");
+    $('#verde').html("Haciendo sacrificios cuando es necesario");
 }
 
 function pregunta3(){
-    $('.pregunta').html("¿Cómo te sientes después de perdonar a alguien?");
-    $('#azul').html("Aliviado");
-    $('#rojo').html("Feliz de poder avanzar");
-    $('#amarillo').html("Todavía un poco herido, pero esperanzado");
-    $('#verde').html("Indiferente, el perdón es para mí, no para ellos");
+    $('.pregunta').html("¿Qué te motiva a comprometerte con algo o alguien?");
+    $('#azul').html("Creer en la causa o en la persona");
+    $('#rojo').html("Ver resultados positivos de mi esfuerzo");
+    $('#amarillo').html("Sentir que estoy haciendo una diferencia");
+    $('#verde').html("La satisfacción personal que obtengo");
 }
 
 function pregunta4(){
-    $('.pregunta').html("¿Crees que hay algo que no puedas perdonar?");
-    $('#azul').html("No, creo que todo puede ser perdonado con el tiempo");
-    $('#rojo').html("Sí, algunas acciones son imperdonables");
-    $('#amarillo').html("Depende de la situación y de cómo me afectó");
-    $('#verde').html("No estoy seguro, nunca he estado en esa situación");
+    $('.pregunta').html("¿Has tenido alguna vez dificultades para mantenerte comprometido?");
+    $('#azul').html("Sí, a veces es difícil mantener el compromiso cuando las cosas se ponen difíciles");
+    $('#rojo').html("No, cuando me comprometo con algo, siempre lo sigo hasta el final");
+    $('#amarillo').html("A veces, depende de la situación");
+    $('#verde').html("No estoy seguro, tendría que pensar en ello");
 }

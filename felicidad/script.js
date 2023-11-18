@@ -68,25 +68,25 @@ function obtenerNombreColor(indice) {
 }
 
 function pregunta2(){
-    $('.pregunta').html("¿Cuándo crees que es apropiado perdonar a alguien?");
-    $('#azul').html("Cuando la otra persona se disculpa");
-    $('#rojo').html("Cuando siento que estoy listo para hacerlo");
-    $('#amarillo').html("Cuando la otra persona ha aprendido de sus errores");
-    $('#verde').html("Siempre, porque todos merecen una segunda oportunidad");
+    $('.pregunta').html("¿Qué te hace feliz?");
+    $('#azul').html("Pasar tiempo haciendo lo que me gusta");
+    $('#rojo').html("Ayudar a los demás y hacerlos felices");
+    $('#amarillo').html("Estar en paz conmigo mismo");
+    $('#verde').html("Aprender y crecer como persona");
 }
 
 function pregunta3(){
-    $('.pregunta').html("¿Cómo te sientes después de perdonar a alguien?");
-    $('#azul').html("Aliviado");
-    $('#rojo').html("Feliz de poder avanzar");
-    $('#amarillo').html("Todavía un poco herido, pero esperanzado");
-    $('#verde').html("Indiferente, el perdón es para mí, no para ellos");
+    $('.pregunta').html("¿Crees que la felicidad es un destino o un viaje?");
+    $('#azul').html("Un destino, porque creo que hay un punto de llegada donde puedo decir que soy completamente feliz");
+    $('#rojo').html("Un viaje, porque creo que la felicidad se encuentra en el proceso y no necesariamente en el resultado");
+    $('#amarillo').html("Ambos, porque creo que la felicidad puede ser tanto un estado de ser como un proceso continuo");
+    $('#verde').html("No estoy seguro, todavía estoy descubriendo lo que significa la felicidad para mí");
 }
 
 function pregunta4(){
-    $('.pregunta').html("¿Crees que hay algo que no puedas perdonar?");
-    $('#azul').html("No, creo que todo puede ser perdonado con el tiempo");
-    $('#rojo').html("Sí, algunas acciones son imperdonables");
-    $('#amarillo').html("Depende de la situación y de cómo me afectó");
-    $('#verde').html("No estoy seguro, nunca he estado en esa situación");
+    $('.pregunta').html("¿Cómo manejas los momentos en los que no te sientes feliz?");
+    $('#azul').html("Trato de recordar que está bien no estar siempre feliz");
+    $('#rojo').html("Busco apoyo en mis amigos y familiares");
+    $('#amarillo').html("Intento cambiar mi perspectiva y buscar el lado positivo");
+    $('#verde').html("Me permito sentirme triste y espero que pase");
 }

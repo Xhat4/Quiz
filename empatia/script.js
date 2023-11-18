@@ -68,25 +68,25 @@ function obtenerNombreColor(indice) {
 }
 
 function pregunta2(){
-    $('.pregunta').html("¿Cuándo crees que es apropiado perdonar a alguien?");
-    $('#azul').html("Cuando la otra persona se disculpa");
-    $('#rojo').html("Cuando siento que estoy listo para hacerlo");
-    $('#amarillo').html("Cuando la otra persona ha aprendido de sus errores");
-    $('#verde').html("Siempre, porque todos merecen una segunda oportunidad");
+    $('.pregunta').html("¿Cómo demuestras empatía hacia los demás?");
+    $('#azul').html("Escuchando activamente cuando alguien me habla");
+    $('#rojo').html("Ofreciendo apoyo cuando alguien está pasando por un momento difícil");
+    $('#amarillo').html("Tratando de entender el punto de vista de los demás");
+    $('#verde').html("Validando los sentimientos de los demás, incluso si no los comparto");
 }
 
 function pregunta3(){
-    $('.pregunta').html("¿Cómo te sientes después de perdonar a alguien?");
-    $('#azul').html("Aliviado");
-    $('#rojo').html("Feliz de poder avanzar");
-    $('#amarillo').html("Todavía un poco herido, pero esperanzado");
-    $('#verde').html("Indiferente, el perdón es para mí, no para ellos");
+    $('.pregunta').html("¿Cómo te sientes cuando alguien muestra empatía hacia ti?");
+    $('#azul').html("Me siento comprendido y validado");
+    $('#rojo').html("Me siento más conectado con la otra persona");
+    $('#amarillo').html("Me siento aliviado de poder compartir mis sentimientos");
+    $('#verde').html("Me siento agradecido de tener a alguien que se preocupa por mí");
 }
 
 function pregunta4(){
-    $('.pregunta').html("¿Crees que hay algo que no puedas perdonar?");
-    $('#azul').html("No, creo que todo puede ser perdonado con el tiempo");
-    $('#rojo').html("Sí, algunas acciones son imperdonables");
-    $('#amarillo').html("Depende de la situación y de cómo me afectó");
-    $('#verde').html("No estoy seguro, nunca he estado en esa situación");
+    $('.pregunta').html("¿Crees que es importante practicar la empatía? ¿Por qué?");
+    $('#azul').html("Sí, porque ayuda a construir relaciones más fuertes y saludables");
+    $('#rojo').html("Sí, porque nos hace más humanos y compasivos");
+    $('#amarillo').html("Depende de la situación, pero en general, creo que es beneficioso");
+    $('#verde').html("No estoy seguro, todavía estoy aprendiendo sobre la empatía");
 }
